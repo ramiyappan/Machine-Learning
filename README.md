@@ -4,6 +4,15 @@ This project was part of assignments from the Data Mining course *(CS 584 - Spri
 
 ## Files on the Repository
 
+Sentiment Analysis Report.pdf --------> Report submission for the project with brief discussions and technical results.
+
+Sentiment Analysis code.ipynb -------> MAIN file.
+
+Test.dat --------------------------------> Test Dataset.
+
+Test1_0.90.dat -------------------------> Test prediction of the model with 90% Accuracy.
+
+Train.dat -------------------------------> Train Dataset.
 
 ## Business Problem
 
