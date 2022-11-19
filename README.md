@@ -8,11 +8,11 @@ Sentiment Analysis Report.pdf --------> Report submission for the project with b
 
 Sentiment Analysis code.ipynb -------> MAIN file.
 
-Test.dat --------------------------------> Test Dataset.
+Test data.dat ---------------------------> Test Dataset.
 
-Test1_0.90.dat -------------------------> Test prediction of the model with 90% Accuracy.
+Test_predict1_0.90.dat -----------------> Test prediction of the model with 90% Accuracy.
 
-Train.dat -------------------------------> Train Dataset.
+Train data.dat --------------------------> Train Dataset.
 
 ## Business Problem
 
