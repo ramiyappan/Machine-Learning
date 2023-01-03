@@ -1,7 +1,3 @@
-# Sentiment Analysis
-
-This project was part of assignments from the Data Mining course *(CS 584 - Spring '22)* at George Mason University.
-
 ## Files on the Repository
 
 Sentiment Analysis Report.pdf --------> Report submission for the project with brief discussions and technical results.
