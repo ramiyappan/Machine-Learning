@@ -1,14 +1,14 @@
 ## Files on the Repository
 
-Sentiment Analysis Report.pdf --------> Report submission for the project with brief discussions and technical results.
+`Sentiment Analysis Report.pdf` - Report submission for the project with brief discussions and technical results.
 
-Sentiment Analysis code.ipynb -------> MAIN file.
+`Sentiment Analysis code.ipynb` - MAIN file.
 
-Test data.dat ---------------------------> Test Dataset.
+`Test data.dat` - Test Dataset.
 
-Test_predict1_0.90.dat -----------------> Test prediction of the model with 90% Accuracy.
+`Test_predict1_0.90.dat` - Test prediction of the model with 90% Accuracy.
 
-Train data.dat --------------------------> Train Dataset.
+`Train data.dat` - Train Dataset.
 
 ## Business Problem
 
@@ -22,17 +22,17 @@ The objectives of this assignment are the following:
 
 ## Dataset
 
-  - In test.dat you are only provided the reviews but no ground truth rating *(no target variable)*.
+  - In `test.dat` you are only provided the reviews but no ground truth rating *(no target variable)*.
 
-  - The training data also contains 18506 reviews *(in the file train_file.dat)*. Each row begins with the sentiment score followed by the text corresponding to the review.
+  - The training data `train_file.dat` also contains 18506 reviews. Each row begins with the sentiment score followed by the text corresponding to the review.
 
-  - format.dat shows an example file containing 18506 rows alternating with +1 and -1.
+  - `format.dat` shows an example file containing 18506 rows alternating with +1 and -1.
 
 ## Detailed Description:
 
 A practical application in e-commerce applications is to infer sentiment *(or polarity)* from free form review text submitted for range of products.
 
-Use a Logistic Regression classifier to predict the sentiment for 18506 reviews for baby products provided in the test file *(test.dat)*. 
+Use a Logistic Regression classifier to predict the sentiment for 18506 reviews for baby products provided in the test file `test.dat`. 
 
 Positive sentiment is represented by a review rating of +1 and Negative Sentiment is represented by a review rating of -1. 
 
