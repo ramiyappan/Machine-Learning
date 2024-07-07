@@ -1,7 +1,5 @@
 ## Files on the Repository
 
-`Sentiment Analysis Report.pdf` - Report submission for the project with brief discussions and technical results.
-
 `Sentiment Analysis code.ipynb` - MAIN file.
 
 `Test data.dat` - Test Dataset.
